@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Henry Okonkwo.
+I'm Henry Okonkwo. Continuously learning and building.
 
 [![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=chokonaira)](https://github.com/chokonaira/github-readme-stats)
 
